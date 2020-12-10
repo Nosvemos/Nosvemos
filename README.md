@@ -2,10 +2,10 @@
 Hi to all Github Community , I’m Nosvemos
 
 My name is Samet Öztürk, I live in **Turkey/Istanbul**. 
-Web Desigin & Development. <br/>
-I can speak ***🇬🇧English,*** and ***🇹🇷Turkish.***
+Web Design & Development. <br/>
+I can speak ***English,*** and ***Turkish.***
 
-### Contact with me:
+### Contact
 <a href="https://instagram.com/sametozturkresmi/">
   <img align="left" alt="sametozturkresmi" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -20,7 +20,7 @@ I can speak ***🇬🇧English,*** and ***🇹🇷Turkish.***
 <br>
 <br>
 
-### Interests
+### Skills
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg)
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/desktop.svg)
 <br>
