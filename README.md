@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logotype.svg" height="40" alt="daisyui logo"  />
+  <img src="https://avatars.githubusercontent.com/u/76870092" height="40" alt="daisyui logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/139895814" height="40" alt="shadcnui logo"  />
 </div>
