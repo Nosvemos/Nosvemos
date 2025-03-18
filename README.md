@@ -2,7 +2,9 @@
 
 ###
 
+<summary>
 <h2 align="left">🙋🏻‍♂️ I'm Full-Stack Web Developer<br>📖 I'm currently a first year university student on Turkey.<br>ℹ️ I publish my projects as a source of ideas for the community.</h2>
+</summary>
 
 ###
 
