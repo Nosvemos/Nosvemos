@@ -1,8 +1,8 @@
-<h2 align="left">Hi, I'm Samet👋</h2>
+<h1 align="left">Hi, I'm Samet👋</h1>
 
 ###
 
-<h3 align="left">🙋🏻‍♂️ I'm Full-Stack Web Developer<br>📖 I'm currently a first year university student on Turkey.<br>ℹ️ I publish my projects as a source of ideas for the community.</h3>
+<h2 align="left">🙋🏻‍♂️ I'm Full-Stack Web Developer<br>📖 I'm currently a first year university student on Turkey.<br>ℹ️ I publish my projects as a source of ideas for the community.</h2>
 
 ###
 
