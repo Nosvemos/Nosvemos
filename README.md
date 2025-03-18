@@ -34,8 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-<img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logotype.svg" height="40" alt="daisyui logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/139895814" height="40" alt="shadcnui logo"  />
 </div>
 
 ###
