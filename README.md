@@ -1,14 +1,4 @@
-<h1 align="left">Hi, I'm Samet👋</h1>
-
-###
-
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h2 align="left">🙋🏻‍♂️ I'm Full-Stack Web Developer<br>📖 I'm currently a first year university student on Turkey.<br>ℹ️ I publish my projects as a source of ideas for the community.</h2>
-    </summary>
-  </ul>
-</div>
+<h1 align="left">Hi, I'm Nosvemos👋</h1>
 
 ###
 
@@ -31,15 +21,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/76870092" height="40" alt="daisyui logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/139895814" height="40" alt="shadcnui logo"  />
 </div>
 
 ###
